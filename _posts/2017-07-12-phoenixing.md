@@ -20,5 +20,3 @@ Here's a picture of an oblivious llama chomping grass at the Machu Picchu from m
 
 <img src="/images/posts/2017-07-12/llama-machu-picchu.jpg" />
 
-Buenas noches.
-
