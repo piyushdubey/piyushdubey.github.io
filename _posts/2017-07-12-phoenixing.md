@@ -14,7 +14,7 @@ I have in the past, tried to maintain a blog, and write whenever I am able, I ha
 
 I realized, I love writing and creative expression in any form. And it was a no brainer that I need phoenixing my blog and write some more for my own sake. So, here I am writing, sharing my thoughts, phoenixing my blog, phoenixing myself. 
 
-P.S - I have been an ardent follower of Tom Preston-Werner right from the beginning of his Gihub days. And I shamelessly copied the layout of his <a href="http://tom.preston-werner.com/" target="_blank">blog</a> and made it my own. The content and contribution is nowhere near what he has done, but the effort is no less. Thanks to people like him, who make technology worthy and passion for coding alive for the rest of us. 
+P.S. - I have been an ardent follower of Tom Preston-Werner right from the beginning of his Gihub days. And I shamelessly copied the layout of his <a href="http://tom.preston-werner.com/" target="_blank">blog</a> and made it my own. The content and contribution is nowhere near what he has done, but the effort will be no less, I promise. Thanks to people like him, who make technology worthy and passion for coding alive for the rest of us. 
 
 Here's a picture of an oblivious llama chomping grass at the Machu Picchu from my recent trip to Peru.
 
