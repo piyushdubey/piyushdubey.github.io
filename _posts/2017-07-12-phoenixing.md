@@ -16,7 +16,7 @@ One of the realizations was going back to my love of writing and sharing thought
 
 P.S. - I have been an ardent follower of Tom Preston-Werner right from his early Github days. I shamelessly copied the layout of his <a href="http://tom.preston-werner.com/" target="_blank">blog</a> and made it my own. The content and contribution is nowhere near what he has done, but the effort will be no less, I promise. Thanks to people like him, who keep the field of technology exciting, realm of software engineering relevant, and passion for coding alive for the rest of us.
 
-Here's a bonus picture from my recent trip to Peru of an oblivious llama chomping grass at Machu Picchu. Groovy!
+Here's a bonus picture of an oblivious llama chomping grass at Machu Picchu from my recent trip to Peru.
 
 <img src="/images/posts/2017-07-12/llama-machu-picchu.jpg" />
 
